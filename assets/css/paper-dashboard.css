@@ -181,7 +181,7 @@ strong {
 body {
     color: #66615b;
     font-size: 14px;
-    background-color: #f4f3ef;
+    background-color: #000000;
     font-family: 'Muli', Arial, sans-serif;
 }
 
@@ -363,7 +363,7 @@ hr {
 
 .sidebar .nav li.active > a:after,
 .off-canvas-sidebar .nav li.active > a:after {
-    border-right: 17px solid #f4f3ef;
+    border-right: 17px solid #000000;
     border-top: 17px solid transparent;
     border-bottom: 17px solid transparent;
     content: "";
