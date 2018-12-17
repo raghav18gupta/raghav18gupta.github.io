@@ -1,0 +1,30 @@
+{
+  "short_name": "Raghav Gupta",
+  "name": "Raghav Gupta",
+  "theme_color": "#212121",
+  "background_color": "#F7F8F9",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/icons/github48px.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "assets/icons/github96px.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "assets/icons/github144px.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "assets/icons/github192px.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "https://raghav18gupta.github.io/"
+}
